@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on... nothing at the moment; I'm still learning!
+- 🔭 I’m currently working on FreeCodeCamp projects and getting started on a personal website.  Other than that, I'm still learning!
 - 🌱 I’m currently learning HTML and CSS with FreeCodeCamp
 <!--
 - 👯 I’m looking to collaborate on ...
